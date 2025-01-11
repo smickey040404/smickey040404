@@ -115,4 +115,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smickey040404&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Mickey105" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smickey040404&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient" alt="Mickey105" /></p>
+
