@@ -111,8 +111,8 @@
 <h3 align="left">Support:</h3>
 <br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Mickey105&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smickey040404&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Mickey105&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Mickey105" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smickey040404&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Mickey105" /></p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient" alt="Mickey105" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=smickey040404&repo=github-readme-stats&cache_seconds=86400&theme=ambient_gradient" alt="Mickey105" /></p>
