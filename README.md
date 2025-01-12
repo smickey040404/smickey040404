@@ -113,6 +113,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smickey040404&show_icons=true&locale=en&layout=compact" alt="NFTknight" /></p> <br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smickey040404&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Mickey105" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smickey040404&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=ambient_gradient" alt="Mickey" /></p>
 
 
